@@ -1,0 +1,8 @@
+# Build output
+*.o
+student_daemon
+
+# Editor / OS files
+*~
+.DS_Store
+*.swp
