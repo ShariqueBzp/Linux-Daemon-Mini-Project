@@ -51,7 +51,6 @@ Linux-Daemon-Mini-Project/
 │   ├── ARCHITECTURE.md
 │   ├── TESTING.md
 │   ├── VIVA.md
-│   └── original-pdfs/
 ├── Makefile
 ├── .gitignore
 ├── LICENSE
